@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+html{
+height: 100vh;
+}
+
+body{
+  /* background: #acb6e5; */
+  /* background: -webkit-linear-gradient(to right, #86fde8, #acb6e5); */
+  background: linear-gradient(to right, #2a2c2c, #302b2b);
+}
+.navbar-light .navbar-brand{
+  font-weight: 600;
+  font-size: 30px;
+}
+
+@media(min-width: 577px){
+.navbar-light .navbar-nav .nav-link{
+  font-weight: 400;
+  padding-left:20px;
+}
+}
+@media (max-width:576px) {
+  .navbar-light .navbar-nav .nav-link{
+    font-weight: 400;
+}
+}
