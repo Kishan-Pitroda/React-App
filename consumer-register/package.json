@@ -9,7 +9,7 @@
     "ag-grid-community": "^23.2.1",
     "ag-grid-enterprise": "^23.2.1",
     "ag-grid-react": "^23.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "joi-browser": "^13.4.0",
     "jquery": "^3.5.1",
